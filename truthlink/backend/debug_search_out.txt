@@ -1,0 +1,23 @@
+Query: thalaivar 173 is produced by rkfi
+
+DuckDuckGo results:
+[Debug] DuckDuckGo search query: thalaivar 173 is produced by rkfi
+[Debug] Fetching DuckDuckGo URL: https://html.duckduckgo.com/html/
+[Debug] DuckDuckGo found 0 links
+[Debug] Fetching DuckDuckGo URL: https://lite.duckduckgo.com/lite/
+[Debug] DuckDuckGo found 0 links
+
+Bing results:
+[Debug] Bing search query: thalaivar 173 is produced by rkfi
+[Debug] Bing found 0 links
+
+Discover sources:
+[Debug] DuckDuckGo search query: thalaivar 173 is produced by rkfi
+[Debug] Fetching DuckDuckGo URL: https://html.duckduckgo.com/html/
+[Debug] DuckDuckGo found 0 links
+[Debug] Fetching DuckDuckGo URL: https://lite.duckduckgo.com/lite/
+[Debug] DuckDuckGo found 0 links
+[Debug] DuckDuckGo returned no results, falling back to Bing
+[Debug] Bing search query: thalaivar 173 is produced by rkfi
+[Debug] Bing found 0 links
+[Debug] No search results found for query
